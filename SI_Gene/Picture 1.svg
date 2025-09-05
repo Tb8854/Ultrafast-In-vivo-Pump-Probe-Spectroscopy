@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 498" style="enable-background:new 0 0 400 498;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000155141657283866316880000002405566970579524769_);}
+	.st1{clip-path:url(#SVGID_00000083060518876785853180000015073716757698096293_);}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:14px;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="400" height="498"/>
+	</defs>
+	<clipPath id="SVGID_00000018951590392659254670000016739714039423017112_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g transform="translate(-197 -250)" style="clip-path:url(#SVGID_00000018951590392659254670000016739714039423017112_);">
+		<g>
+			<defs>
+				<rect id="SVGID_00000116219906841515308270000016073942067892281526_" x="197" y="250" width="400" height="498"/>
+			</defs>
+			<clipPath id="SVGID_00000131369178207019425680000000819875420531552937_">
+				<use xlink:href="#SVGID_00000116219906841515308270000016073942067892281526_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="sL56xK.tif" style="clip-path:url(#SVGID_00000131369178207019425680000000819875420531552937_);">
+				
+					<image style="overflow:visible;" width="934" height="1152" id="Layer_0_00000181796649997672123750000008021188983966579618_" xlink:href="6B473E85C0B79BE6.png"  transform="matrix(0.3968 0 0 0.3968 213.7701 258.6587)">
+				</image>
+			</g>
+			<g style="clip-path:url(#SVGID_00000131369178207019425680000000819875420531552937_);">
+				<g>
+					<defs>
+						<rect id="SVGID_00000168819997961874043470000000849343152152119183_" x="261.6" y="301.2" width="399" height="496"/>
+					</defs>
+					<clipPath id="SVGID_00000120525582072908396780000002733081012305119872_">
+						<use xlink:href="#SVGID_00000168819997961874043470000000849343152152119183_"  style="overflow:visible;"/>
+					</clipPath>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="16.8" y="8.7" class="st2" width="26.8" height="26"/>
+<rect x="20.1" y="193.9" class="st2" width="26.1" height="24.8"/>
+<rect x="208.1" y="10.6" class="st2" width="22.1" height="18.7"/>
+<text transform="matrix(1 0 0 1 31.4871 27.9564)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 216.4765 27.2385)" class="st3 st4">B</text>
+<text transform="matrix(1 0 0 1 37.2407 207.5601)" class="st3 st4">C</text>
+</svg>
